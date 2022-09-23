@@ -40,7 +40,9 @@ button {
     padding: 8px;
 }
 
-button:hover { /*hover é um evento */
+button:hover { /*houver é o passar sobre o elemento*/
     background-color: #1a1a1a;
     color: #fff;
+    cursor: pointer; /* incluindo a mãozinha no lugar da setinha */
+    
 }
